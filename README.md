@@ -1,5 +1,5 @@
 # **Anti Command Choker**
-> With this plugin you can prevent yourself from choking your commands with a 7 instead of a /
+> With this addon you can prevent yourself from choking your commands with a 7 instead of a /
 
 ### Installation
 1. Press `Win` + `R`
