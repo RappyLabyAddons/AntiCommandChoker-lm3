@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "Anti Command Choker",
+  "mainClass": "com.rappytv.anticmdchoker.AntiCommandChoker",
+  "description": "This will prevent you from choking commands by typing \"7\" instead of a slash as command trigger",
+  "version": 1,
+  "author": "RappyTV#6969 [Cr: t0mse]",
+  "category": 2,
+  "icon": "https://i.imgur.com/mJaaJ2E.png"
+}
