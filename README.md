@@ -1,4 +1,4 @@
-# **Anti Command Choker**
+# **Anti Command Choker [LabyMod 3]**
 > With this addon you can prevent yourself from choking your commands with a 7 instead of a /
 
 ### Installation
